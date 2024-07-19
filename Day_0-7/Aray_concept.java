@@ -21,11 +21,18 @@ class Array_concept{
         int d=myArray1[3]=40;
         int e=myArray1[4]=50;
         
-        System.out.println(a);
-        System.out.println(b);
-        System.out.println(c);
-        System.out.println(d);
-        System.out.println(e);
+        //System.out.println(a);
+        //System.out.println(b);
+        //System.out.println(c);
+        //System.out.println(d);
+        //System.out.println(e);
+
+
+        //Array Traversal
+
+        for(int i=0;i<myArray1.length;i++){
+            System.out.println(myArray1[i]);
+        }
         
     }
 }
