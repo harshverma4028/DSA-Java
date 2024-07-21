@@ -6,5 +6,6 @@ public class Delete_From_Array {
         System.out.println("Enter the number you want to delete: ");
         int x=sc.nextInt();
         
+
     }
 }
