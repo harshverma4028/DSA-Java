@@ -18,7 +18,7 @@ public class Is_Pallindrome {
 
     }
     public static void main(String[] args) {
-        int arr[]={1,2,3,2,1,2};
+        int arr[]={1,2,3,2,1};
         isPallindrome(arr, arr.length);
     }
 
