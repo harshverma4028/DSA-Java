@@ -35,5 +35,5 @@ public class Merge_two_sorted_Array {
         System.out.println("Array after merging");
         for (int i=0; i < n1+n2; i++)
             System.out.print(arr3[i] + " ");
-    }
+         }            
 }
