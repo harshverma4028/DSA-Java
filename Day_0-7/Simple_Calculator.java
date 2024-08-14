@@ -31,7 +31,7 @@ public class Simple_Calculator {
               break;
       }
       System.out.println(result);      
-
+ 
      }
     }
 }
