@@ -6,7 +6,7 @@ public class Pair {
         for(int i=0;i<number.length;i++){
             int curr=number[i];
             for(int j=i+1;j<number.length;j++){
-                System.out.println("("+curr+","+number[j]+")"); 
+                System.out.print("("+curr+","+number[j]+")"); 
             }
             System.out.println();
         }
