@@ -10,7 +10,7 @@ public class SubArraySum {
             for(int j=i;j<number.length;j++){
                 int end=j;
                 currSum=0;
-                for(int k=start;k<end;k++){
+                for(int k=start;k<=end;k++){
                     currSum+=number[k];  
                 }
                 System.out.println(currSum);
